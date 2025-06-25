@@ -1,4 +1,3 @@
-Here’s how you could fill in the README.md using the content of Cog-template.md and LICENSE.txt:
 
 ---
 
