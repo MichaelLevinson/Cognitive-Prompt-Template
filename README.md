@@ -66,4 +66,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ---
 
-If you’d like, I can format the README.md for you to copy and paste directly, or help with additional sections (usage, contributing, etc.). Let me know your preference!
